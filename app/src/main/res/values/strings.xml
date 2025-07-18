@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- Other strings -->
+    <string name="title_new_employee">New Employee</string>
+    <!-- You can also add other hardcoded strings from your layout here -->
+    <string name="hint_first_name">First Name*</string>
+    <string name="validation_error_message_default">Validation error message</string>
+    <string name="hint_middle_name">Middle Name*</string>
+    <string name="hint_last_name">Last Name*</string>
+    <string name="hint_phone_number_formatted">+910000000086*</string>
+    <string name="hint_email_id">Email ID*</string>
+    <string name="hint_department">Department*</string>
+    <string name="hint_designation">Designation*</string>
+    <string name="button_save">SAVE</string>
+    <string name="fab_content_description_add_employee">Add new employee</string>
+</resources>
